@@ -60,5 +60,5 @@ jobs:
         with:
           app-name: 'employeadithya'
           slot-name: 'Production'
-          package: 'springboot-backend/target/*.jar'
+          package: './java-app/*.jar'
           
